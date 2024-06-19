@@ -74,3 +74,23 @@ final peercoinRegtest = NetworkType(
   wif: 0xef,
   opreturnSize: 256,
 );
+
+final verge = NetworkType(	
+  messagePrefix: 'VERGE Signed Message:\n',	
+  bech32: 'vg',	
+  bip32: Bip32Type(public: 0x022d2533, private: 0x0221312b),	
+  pubKeyHash: 0x1e,	
+  scriptHash: 0x21,	
+  wif: 0x9e,	
+  opreturnSize: 80,	
+);
+
+final vergeTestnet = NetworkType(	
+  messagePrefix: 'VERGE Signed Message:\n',	
+  bech32: 'vt',	
+  bip32: Bip32Type(public: 0x043587CF, private: 0x04358394),	
+  pubKeyHash: 0x73,	
+  scriptHash: 0xC6,	
+  wif: 0xF3,	
+  opreturnSize: 80,	
+);
