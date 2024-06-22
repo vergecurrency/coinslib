@@ -1,7 +1,7 @@
-# coinslib
-A dart cryptocurrency library for Flutter with Verge support, primarily built for Peercoin.
+# CoinsLib
+A .dart cryptocurrency library for Flutter with Verge support, originally built for Peercoin.
 
-<a href="https://pub.dartlang.org/packages/coinslib"><img alt="pub version" src="https://img.shields.io/pub/v/coinslib?style=flat-squaree"></a> [![Dart](https://github.com/vergecurrency/coinslib/actions/workflows/dart.yml/badge.svg)](https://github.com/vergecurrency/coinslib/actions/workflows/dart.yml)
+[![Dart](https://github.com/vergecurrency/coinslib/actions/workflows/dart.yml/badge.svg)](https://github.com/vergecurrency/coinslib/actions/workflows/dart.yml)
 
 
 This library is a fork of the seemingly discontinued  [bitcoin_flutter](https://github.com/dart-bitcoin/bitcoin_flutter) merged with [bech32](https://github.com/saeveritt/bech32).
