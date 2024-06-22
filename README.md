@@ -20,7 +20,6 @@ Otherwise, pull requests are appreciated.
 - Verge
 - Peercoin 
 - Bitcoin
-- a lot of Bitcoin clones, please advise 
 
 ## Examples
 
