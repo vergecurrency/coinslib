@@ -1,4 +1,4 @@
-import 'package:coinslib/coinlib.dart';
+import 'package:coinslib/coinslib.dart';
 import '../../vectors/tx.dart';
 import 'signature_hasher_tester.dart';
 

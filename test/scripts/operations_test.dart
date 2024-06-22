@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 import 'package:test/test.dart';
-import 'package:coinslib/coinlib.dart';
+import 'package:coinslib/coinslib.dart';
 import '../vectors/keys.dart';
 import '../vectors/signatures.dart';
 import 'common.dart';
